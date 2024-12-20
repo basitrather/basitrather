@@ -1,5 +1,5 @@
 # 💫 About Me:
-Javascript<br>basitrather.netlify.app<br>html,css and javascript<br>ratherbasit253@gmail.com
+Javascript<br>html,css and javascript<br>https://basitrather.netlify.app
 
 
 ## 🌐 Socials:
