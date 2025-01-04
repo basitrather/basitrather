@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫 About Me:
 LEARNING :Javascript<br>SKILLS: Html,Css & Javascript <br><br>PORTFOLIO :https://basitrather.netlify.app
 
 learning to be a full stack developer🏃
